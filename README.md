@@ -1,4 +1,4 @@
-# Hands-on Modernization Lab
+# Enterprise ci/cd pipeline modernization github project
 
 Modernization is essential to preserve the security and stability of your critical enterprise applications, and to be able to increase the delivery of new innovations. Modernization can take many forms, including adopting a more modern runtime, adopting Kubernetes/OpenShift, and refactoring to Microservices. Many modernization projects struggle to deliver because of the complexity inherent in uprooting an application and its dependencies, understanding code written decades ago, and acquiring new skill for the destination environment. This lab introduces you to two new technologies designed to simplify modernization:
 
